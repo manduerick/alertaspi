@@ -11,9 +11,9 @@
 
 ### Implantação
 - O que contém no pacote de arquivos
-  - Pacote produção
-  - Pacote simulação
-- Instruções para instalar docker
+  - Pacote de produção
+  - Pacote de simulação
+- Instruções para instalar o docker
 - Arquivos para simulação
  
 
