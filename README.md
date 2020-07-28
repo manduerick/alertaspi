@@ -5,7 +5,7 @@
 - Banco de dados
 - Tabelas
 - Scripts Pentaho
-- Scripts consulta indicadores
+- Scripts de consulta dos indicadores
 - API
 - Modelos padrão para importação de dados
 
