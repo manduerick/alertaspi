@@ -1,6 +1,6 @@
 # Alertas de Risco - Primeira Infância
 
-A plataforma
+### A plataforma
 
 - Banco de dados
 - Tabelas
@@ -9,7 +9,7 @@ A plataforma
 - API
 - Modelos padrão para importação de dados
 
-Implantação
+### Implantação
 - O que contém no pacote de arquivos
   - Pacote produção
   - Pacote simulação
@@ -17,7 +17,7 @@ Implantação
 - Arquivos para simulação
  
 
-Administrar plataforma
+### Administrar plataforma
 
 - indicadores
   - Como criar Indicadores
@@ -27,6 +27,6 @@ Administrar plataforma
   - Administrar Usuários
   - Grupos de Usuários
 
-App
+### App
 
 - 
