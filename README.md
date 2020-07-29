@@ -19,7 +19,7 @@
 
 ### Administrar plataforma
 
-- indicadores
+- Indicadores
   - Como criar Indicadores
 - Alertas
   - Como criar Alertas
@@ -28,5 +28,3 @@
   - Grupos de Usuários
 
 ### App
-
-- 
